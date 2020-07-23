@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331447201635",
+    "firebase_url": "https://sistemanotas-b74b9.firebaseio.com",
+    "project_id": "sistemanotas-b74b9",
+    "storage_bucket": "sistemanotas-b74b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331447201635:android:88aa54d3abc7ddfa482d56",
+        "android_client_info": {
+          "package_name": "com.example.sistemanotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331447201635-444sdlssfieqo3id7e30bqqo0coake6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sistemanotas",
+            "certificate_hash": "e26f34f91c13bc0e5bd0ecadb7bac635621d690a"
+          }
+        },
+        {
+          "client_id": "331447201635-pbirofm61oqjnt6kvo8uf2lijhj00tnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClrCI34IaHJIUUcOrCTrwNzg5LotjJHRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331447201635-pbirofm61oqjnt6kvo8uf2lijhj00tnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
